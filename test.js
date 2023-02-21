@@ -1,2 +1,5 @@
-console.log("hello world!!");
-console.log("This is an edit by mazen");
+var joe = "joe";
+var biden = "biden";
+var letters = joe+biden;
+var president = (letters).split('').sort().join('');
+console.log(president);
